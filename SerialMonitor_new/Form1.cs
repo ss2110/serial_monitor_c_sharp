@@ -655,7 +655,7 @@ namespace SerialMonitor_new
                     }
                 }                
             }
-            else //Serial Port Send
+            else //Serial Port Send Data
             {
                 try
                 {
